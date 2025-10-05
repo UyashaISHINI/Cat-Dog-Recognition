@@ -13,7 +13,8 @@
 ## How to Run
 
 1. **Open in Colab:**  
-   [![Open In Colab](https://colab.research.google.com/drive/1cdOXubDU1eUsIPRQz37BdUKm8jkt-5Po#scrollTo=RB6Cr4p0Igdj)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cdOXubDU1eUsIPRQz37BdUKm8jkt-5Po#scrollTo=RB6Cr4p0Igdj)
+
 
 ## Key Features
 
